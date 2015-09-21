@@ -1,0 +1,10 @@
+&euro;
+$
+,
+
+<div class="accountbalancee">
+$
+$ Cash Balance
+
+<p class='balance'>
+Cash Balance Stats

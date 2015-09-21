@@ -1,0 +1,4 @@
+plog /?x=login
+plogging /?x=login
+pbalance /?x=account
+pads /?x=ptcview
