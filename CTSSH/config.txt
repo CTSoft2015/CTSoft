@@ -1,4 +1,0 @@
-Port 22
-Maxthread 1000
-Timeout 10
-Delay 10
